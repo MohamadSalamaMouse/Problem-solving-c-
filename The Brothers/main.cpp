@@ -11,7 +11,7 @@ int main()
         cout<<"ARE Brothers" ;
     }
     else{
-        "NOT";
+       cout<< "NOT";
     }
 
 
