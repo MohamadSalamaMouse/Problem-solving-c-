@@ -13,7 +13,7 @@ int main()
         if(C>=65 &&C<=90)
             cout<< "ALPHA\n"<<"IS CAPITAL";
         if(C>=97 &&C<=122)
-            cout<< "IS SMALL" ;
+            cout<< "ALPHA\n"<< "IS SMALL" ;
     }
     return 0;
 }
