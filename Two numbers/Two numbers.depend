@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674823250 source:c:\users\user\desktop\ps\problem-solving-cpp\two numbers\main.cpp
+	<iostream>
+	<cmath>
+
